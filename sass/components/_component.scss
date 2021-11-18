@@ -1,0 +1,19 @@
+.logo {
+  font-family: $secondary-font;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: $accent-color;
+  text-shadow: 1px 0 1px rgb(255, 255, 255), 0 1px 1px rgb(255, 255, 255),
+    -1px 0 1px rgb(255, 255, 255), 0 -1px 1px rgb(255, 255, 255);
+}
+
+.logo-color-header {
+  font-family: $secondary-font;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
+}
