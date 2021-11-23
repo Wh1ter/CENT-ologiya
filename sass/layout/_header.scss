@@ -51,7 +51,7 @@
     }
     width: 100%;
     border-radius: 2px;
-    background-color: $accent-color;
+    background-color: $title-color;
   }
 }
 
@@ -87,7 +87,7 @@
 .mobile-menu-btn:hover,
 .mobile-menu-btn:focus {
   cursor: pointer;
-  fill: $accent-color;
+  fill: $main-color;
 }
 
 .nav {
@@ -165,7 +165,7 @@
     }
     letter-spacing: 0.02em;
 
-    color: #fff;
+    color: $title-color;
     transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -194,7 +194,7 @@
 .address-link:focus,
 .address-svg:hover,
 .address-svg:focus {
-  color: $accent-color;
+  color: $main-color;
 }
 
 @media screen and (max-width: 767px) {
